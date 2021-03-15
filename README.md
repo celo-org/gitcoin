@@ -3,7 +3,7 @@ Welcome to the Celo Make It Mobile Hackathon. A place to track gitcoin related i
 
 
 ## When?
-February 25 - April 7, 2021
+March 5 - April 14, 2021
 
 ## ⏳ Calls to Action 
 
