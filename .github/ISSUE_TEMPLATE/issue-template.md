@@ -1,7 +1,7 @@
 ---
 name: New Gitcoin Bounty Issue
 about: Use this template to propose new Gitcoin bounties.
-title: "[DATE]: [FEATURE NAME]"
+title: "BOUNTY: [Bounty Title]"
 labels: bounty
 assignees: reachjason
 ---
