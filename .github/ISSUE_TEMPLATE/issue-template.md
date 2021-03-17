@@ -17,5 +17,7 @@ assignees: reachjason,critesjosh,barbaraliau,aslawson
 [comment]: # We review the submissions as early as possible (sometimes immediately upon submission) to ensure prompt winner announcement and payout.
 
 ### Time Expectation
+[comment]: # Given someone has the expected prerequisites and knowledge, what is the expected time investment?
 
 ### Resources
+[comment]: # Link any relevant resources (e.g. specific documentation, source code that may be useful)
